@@ -28,7 +28,7 @@
     "express": "^4.16.2",
     "express-jwt": "^5.3.1",
     "jsonwebtoken": "^8.2.1",
-    "pluralize": "^7.0.0",
+    "pluralize": "^8.0.0",
     "wajez-utils": "0.0.7"
   },
   "devDependencies": {
