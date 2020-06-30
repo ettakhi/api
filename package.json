@@ -26,7 +26,7 @@
   "homepage": "https://github.com/wajez/api#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "jsonwebtoken": "^8.2.1",
     "pluralize": "^7.0.0",
     "wajez-utils": "0.0.7"
