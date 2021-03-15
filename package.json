@@ -37,7 +37,7 @@
     "body-parser": "^1.18.2",
     "coveralls": "^3.0.1",
     "istanbul": "^0.4.5",
-    "mocha": "^5.1.1",
+    "mocha": "^8.3.2",
     "wajez-api-test": "^1.0.7"
   }
 }
